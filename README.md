@@ -1,5 +1,4 @@
 # Analysis-of-Financial-Statements-FIN-510
-Course work for Financial Statement Analysis (FIN 510) at Stevens Institute of Technology
 This course is part of the Finance Core for the Master of Science in Finance which is one of
 the Stevens programs that is in the CFA University Affiliation Program. As such, it maps
 at least 70% to the CFA Candidate Body of Knowledge for Financial Statement Analysis.
